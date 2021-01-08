@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=napBrowser
+Exec=bash -c 'cd "/home/kierownik/NapBrowserLinux/" && java -jar /home/kierownik/NapBrowserLinux/NapBrowser.jar'
+Terminal=false
+Icon=/home/kierownik/NapBrowserLinux/icon.ico
+Type=Application
